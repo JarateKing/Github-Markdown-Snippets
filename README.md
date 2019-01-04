@@ -47,3 +47,9 @@ vspace width itemprop
 `text<sub>subscript</sub>`
 
 text<sub>subscript</sub>
+
+## Superscripts
+
+`text<sup>superscript</sup>`
+
+text<sup>superscript</sup>
