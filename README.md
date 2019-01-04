@@ -2,6 +2,8 @@
 
 # HTML
 
+Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
+
 ## Tags
 
 ```h1 h2 h3 h4 h5 h6 h7 h8 br b i strong em a pre code img tt
