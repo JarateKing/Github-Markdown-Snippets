@@ -6,6 +6,8 @@ Github flavored markdown supports HTML tags and attributes, and is useful for ad
 
 ## Tags
 
+The code for the whitelisted tags can be found [here](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb#L42)
+
 ```h1 h2 h3 h4 h5 h6 h7 h8 br b i strong em a pre code img tt
 div ins del sup sub p ol ul table thead tbody tfoot blockquote
 dl dt dd kbd q samp var hr ruby rt rp li tr td th s strike summary
@@ -14,6 +16,8 @@ abbr bdo cite dfn mark small span time wbr
 ```
 
 ## Attributes
+
+The code for the whitelisted attributes can be found [here](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb#L57)
 
 ```
 abbr accept accept-charset
