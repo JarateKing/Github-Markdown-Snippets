@@ -39,3 +39,11 @@ start summary tabindex target
 title type usemap valign value
 vspace width itemprop
 ```
+
+# Text
+
+## Subscripts
+
+`text<sub>subscript</sub>`
+
+text<sub>subscript</sub>
