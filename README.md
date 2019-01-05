@@ -53,3 +53,11 @@ text<sub>subscript</sub>
 `text<sup>superscript</sup>`
 
 text<sup>superscript</sup>
+
+# Alignments
+
+## Center Aligned
+
+`<p align="center">text</p>`
+
+<p align="center">text</p>
