@@ -61,3 +61,9 @@ text<sup>superscript</sup>
 `<p align="center">text</p>`
 
 <p align="center">text</p>
+
+## Right Aligned
+
+`<p align="right">text</p>`
+
+<p align="right">text</p>
