@@ -67,3 +67,17 @@ text<sup>superscript</sup>
 `<p align="right">text</p>`
 
 <p align="right">text</p>
+
+## Split Page
+
+```
+<table><tbody><tr>
+<td width="50%">Left Text</td>
+<td width="50%">Right Text</td>
+<td></td></tr></tbody></table>
+```
+
+<table><tbody><tr>
+<td width="50%">Left Text</td>
+<td width="50%">Right Text</td>
+<td></td></tr></tbody></table>
