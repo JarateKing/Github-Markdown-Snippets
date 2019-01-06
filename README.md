@@ -126,3 +126,11 @@ Note: this only works well for single words, and when the left and right aligned
 <table border="1"><tbody><tr>
 <td width="100%">Text to surround box with.</td>
 <td></td></tr></tbody></table>
+
+## Hotkey Styling
+
+```
+<kbd>Text</kbd>
+```
+
+<kbd>Text</kbd>
