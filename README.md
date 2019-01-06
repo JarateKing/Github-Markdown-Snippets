@@ -104,6 +104,18 @@ Note: this only works well for single words, and when the left and right aligned
 <td>Right Aligned</td>
 </tr></tbody></table>
 
+# Images
+
+## Specify Size
+
+```
+<img width="10" height="10" src="https://placehold.it/15/ff0000/000000?text=+">
+<img width="50" height="50" src="https://placehold.it/15/ff0000/000000?text=+">
+```
+
+<img width="10" height="10" src="https://placehold.it/15/ff0000/000000?text=+">
+<img width="50" height="50" src="https://placehold.it/15/ff0000/000000?text=+">
+
 # Style
 
 ## Surround By Box
