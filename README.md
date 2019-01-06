@@ -1,10 +1,10 @@
 # Github Markdown Snippets
 
-# HTML
+## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
 
-## Tags
+### Tags
 
 The code for the whitelisted tags can be found [here](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb#L42)
 
@@ -15,7 +15,7 @@ details caption figure figcaption
 abbr bdo cite dfn mark small span time wbr
 ```
 
-## Attributes
+### Attributes
 
 The code for the whitelisted attributes can be found [here](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb#L57)
 
@@ -40,35 +40,35 @@ title type usemap valign value
 vspace width itemprop
 ```
 
-# Text
+## Text
 
-## Subscripts
+### Subscripts
 
 `text<sub>subscript</sub>`
 
 text<sub>subscript</sub>
 
-## Superscripts
+### Superscripts
 
 `text<sup>superscript</sup>`
 
 text<sup>superscript</sup>
 
-# Alignments
+## Alignments
 
-## Center Aligned
+### Center Aligned
 
 `<p align="center">text</p>`
 
 <p align="center">text</p>
 
-## Right Aligned
+### Right Aligned
 
 `<p align="right">text</p>`
 
 <p align="right">text</p>
 
-## Split Page
+### Split Page
 
 ```
 <table><tbody><tr>
@@ -82,7 +82,7 @@ text<sup>superscript</sup>
 <td width="50%">Right Text</td>
 <td></td></tr></tbody></table>
 
-## Triple Alignment
+### Triple Alignment
 
 Note: this only works well for single words, and when the left and right aligned texts are approximately the same length (such as with "prev" and "next", for example). The percents can be fiddled with otherwise, but is less likely to work.
 
@@ -104,9 +104,9 @@ Note: this only works well for single words, and when the left and right aligned
 <td>Right Aligned</td>
 </tr></tbody></table>
 
-# Images
+## Images
 
-## Specify Size
+### Specify Size
 
 ```
 <img width="10" height="10" src="https://placehold.it/15/ff0000/000000?text=+">
@@ -116,9 +116,9 @@ Note: this only works well for single words, and when the left and right aligned
 <img width="10" height="10" src="https://placehold.it/15/ff0000/000000?text=+">
 <img width="50" height="50" src="https://placehold.it/15/ff0000/000000?text=+">
 
-# Style
+## Style
 
-## Surround By Box
+### Surround By Box
 
 ```
 <table><tbody><tr>
@@ -139,7 +139,7 @@ Note: this only works well for single words, and when the left and right aligned
 <td width="100%">Text to surround box with.</td>
 <td></td></tr></tbody></table>
 
-## Divider Line
+### Divider Line
 
 ```
 ##
@@ -153,7 +153,7 @@ Note: this only works well for single words, and when the left and right aligned
 
 <img width="100%" height="3" src="https://placehold.it/15/eeeeee/000000?text=+">
 
-## Hotkey Styling
+### Hotkey Styling
 
 ```
 <kbd>Text</kbd>
@@ -161,7 +161,7 @@ Note: this only works well for single words, and when the left and right aligned
 
 <kbd>Text</kbd>
 
-## Dropdown / Collapsing / Spoilers
+### Dropdown / Collapsing / Spoilers
 
 ```
 <details><summary>Click</summary>
@@ -185,11 +185,11 @@ Text</details>
 * Text
 * Text</details>
 
-# Composed
+## Composed
 
-## Table of Contents
+### Table of Contents
 
-## Dropdown / Collapsing / Spoilers
+### Dropdown / Collapsing / Spoilers
 
 ```
 <table><tbody><tr>
