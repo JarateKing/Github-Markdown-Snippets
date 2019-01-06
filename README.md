@@ -103,3 +103,17 @@ Note: this only works well for single words, and when the left and right aligned
 <td  width="50%"></td>
 <td>Right Aligned</td>
 </tr></tbody></table>
+
+# Style
+
+## Surround By Box
+
+```
+<table><tbody><tr>
+<td>Text to surround box with</td>
+</tr></tbody></table>
+```
+
+<table><tbody><tr>
+<td>Text to surround box with</td>
+</tr></tbody></table>
