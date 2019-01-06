@@ -169,12 +169,11 @@ Text</details>
 <table><tbody><tr>
 <td><details><summary>Table of Contents</summary>
 
-1. Category 1
-   1. Subcategory 1
-   2. Subcategory 2
-   3. Subcategory 3
-2. Category 2
-3. Category 3
+1. [Category 1](#html)
+   1. [Subcategory 1](#tags)
+   2. [Subcategory 2](#attributes)
+2. [Category 2](#text)
+3. [Category 3](#alignments)
 </details></td>
 </tr></tbody></table>
 ```
