@@ -81,3 +81,23 @@ text<sup>superscript</sup>
 <td width="50%">Left Text</td>
 <td width="50%">Right Text</td>
 <td></td></tr></tbody></table>
+
+## Triple Alignment
+
+```
+<table><tbody><tr>
+<td>Left Aligned this is lots of text</td>
+<td  width="50%"></td>
+<td>Center Aligned</td>
+<td  width="50%"></td>
+<td>Right Aligned</td>
+</tr></tbody></table>
+```
+
+<table><tbody><tr>
+<td>Left Aligned</td>
+<td  width="50%"></td>
+<td>Center Aligned</td>
+<td  width="50%"></td>
+<td>Right Aligned</td>
+</tr></tbody></table>
