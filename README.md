@@ -134,3 +134,13 @@ Note: this only works well for single words, and when the left and right aligned
 ```
 
 <kbd>Text</kbd>
+
+## Dropdown / Collapsing / Spoilers
+
+```
+<details><summary>Click</summary>
+Text</details>
+```
+
+<details><summary>Click</summary>
+Text</details>
