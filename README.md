@@ -144,3 +144,17 @@ Text</details>
 
 <details><summary>Click</summary>
 Text</details>
+
+```
+<details><summary>Click</summary>
+  
+* Text
+* Text
+* Text</details>
+```
+
+<details><summary>Click</summary>
+  
+* Text
+* Text
+* Text</details>
