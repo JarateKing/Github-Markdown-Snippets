@@ -84,9 +84,11 @@ text<sup>superscript</sup>
 
 ## Triple Alignment
 
+Note: this only works well for single words, and when the left and right aligned texts are approximately the same length (such as with "prev" and "next", for example). The percents can be fiddled with otherwise, but is less likely to work.
+
 ```
 <table><tbody><tr>
-<td>Left Aligned this is lots of text</td>
+<td>Left Aligned</td>
 <td  width="50%"></td>
 <td>Center Aligned</td>
 <td  width="50%"></td>
