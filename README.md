@@ -139,6 +139,14 @@ Note: this only works well for single words, and when the left and right aligned
 <td width="100%">Text to surround box with.</td>
 <td></td></tr></tbody></table>
 
+## Divider Line
+
+```
+##
+```
+
+##
+
 ## Hotkey Styling
 
 ```
