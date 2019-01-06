@@ -117,3 +117,12 @@ Note: this only works well for single words, and when the left and right aligned
 <table><tbody><tr>
 <td>Text to surround box with</td>
 </tr></tbody></table>
+```
+<table border="1"><tbody><tr>
+<td width="100%">Text to surround box with.</td>
+<td></td></tr></tbody></table>
+```
+
+<table border="1"><tbody><tr>
+<td width="100%">Text to surround box with.</td>
+<td></td></tr></tbody></table>
