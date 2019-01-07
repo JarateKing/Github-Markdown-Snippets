@@ -72,6 +72,24 @@ __text__
 
 [text](https://www.google.com/)
 
+### Code
+
+```
+non-code `inline-code`
+```
+
+non-code `inline-code`
+
+    ```
+    multi-line
+    code
+    ```
+
+```
+multi-line
+code
+```
+
 ## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
