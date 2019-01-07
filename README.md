@@ -243,20 +243,24 @@ Note: this only works well for single words, and when the left and right aligned
 ### Divider Line
 
 ```
+#
 ##
 ```
 
+#
 ##
 
 ```
 ---
 ***
 ___
+<hr>
 ```
 
 ---
 ***
 ___
+<hr>
 
 ```
 <img width="100%" height="3" src="https://placehold.it/15/eeeeee/000000?text=+">
