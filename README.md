@@ -113,14 +113,14 @@ code
 ### Tables
 
 ```
-Cat 1 | Cat 2 | Cat 2 | Cat 3
+Cat 1 | Cat 2 | Cat 3 | Cat 4
 ----- | ----- |:-----:| -----:
 text | text | text | text
 more text | more text | centered text | right-aligned text
  | | | | 
 ```
 
-Cat 1 | Cat 2 | Cat 2 | Cat 3
+Cat 1 | Cat 2 | Cat 3 | Cat 4
 ----- | ----- |:-----:| -----:
 text | text | text | text
 more text | more text | centered text | right-aligned text
