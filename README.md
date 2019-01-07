@@ -292,8 +292,6 @@ Text</details>
 
 ### Table of Contents
 
-### Dropdown / Collapsing / Spoilers
-
 ```
 <table><tbody><tr>
 <td><details><summary>Table of Contents</summary>
