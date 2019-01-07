@@ -64,6 +64,14 @@ __text__
 
 ~~text~~
 
+### Links
+
+```
+[text](https://www.google.com/)
+```
+
+[text](https://www.google.com/)
+
 ## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
