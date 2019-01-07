@@ -20,6 +20,20 @@
 ##### 5
 ###### 6
 
+```
+1
+=
+
+2
+-
+```
+
+1
+=
+
+2
+-
+
 ## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
