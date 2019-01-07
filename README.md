@@ -296,6 +296,22 @@ Text</details>
 * Text
 * Text</details>
 
+### Start-of-line Asterisk
+
+Normally, having an asterisk at the start of a line will become a list. If you want to keep it as an asterisk, you can add a zero-width whitespace character in front of it. This same logic will also apply to other markdown concepts.
+
+```
+* Text
+```
+
+* Text
+
+```
+&#8203;* Text
+```
+
+&#8203;* Text
+
 ## Composed
 
 ### Table of Contents
