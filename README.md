@@ -110,6 +110,22 @@ code
 
 > text
 
+### Tables
+
+```
+Cat 1 | Cat 2 | Cat 2 | Cat 3
+----- | ----- |:-----:| -----:
+text | text | text | text
+more text | more text | centered text | right-aligned text
+ | | | | 
+```
+
+Cat 1 | Cat 2 | Cat 2 | Cat 3
+----- | ----- |:-----:| -----:
+text | text | text | text
+more text | more text | centered text | right-aligned text
+ | | | | 
+
 ## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
