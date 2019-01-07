@@ -1,5 +1,7 @@
 # Github Markdown Snippets
 
+Markdown files on github can be styled using either github flavored markdown or with certain html tags and attributes. These snippets should serve as a cheatsheet and a reference list of several different techniques.
+
 ## Basic Formatting
 
 ### Headers
