@@ -206,7 +206,7 @@ vspace width itemprop
 
 ### Entities
 
-A complete list of html entities can be found: https://www.freeformatter.com/html-entities.html
+A list of named html entities can be found [here](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
 
 Some common ones:
 
@@ -220,6 +220,8 @@ Code | Appearance
 `&divide;` | &divide;
 `&deg;` | &deg;
 `&plusmn;` | &plusmn;
+
+Html entities can be referenced by their unicode number. For example, `&copy;` is equivalent to `&#xa9;` (for hexadecimal) or `&#169;` (for decimal).
 
 ## Text
 
