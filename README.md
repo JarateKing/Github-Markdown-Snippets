@@ -142,6 +142,19 @@ more text | more text | centered text | right-aligned text
     * text
       * text
 
+```
+1. text
+2. text
+   1. text
+      1. text
+         1. text
+```
+
+1. text
+2. text
+   1. text
+      1. text
+         1. text
 
 ## HTML
 
