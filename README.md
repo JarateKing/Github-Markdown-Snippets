@@ -159,10 +159,24 @@ more text | more text | centered text | right-aligned text
 ```
 - [ ] text
 - [X] text
+  - [X] text
+    - [X] text
+- [X] text
+  * text
+    * text
+  1. text
+     1. text
 ```
 
 - [ ] text
 - [X] text
+  - [X] text
+    - [X] text
+- [X] text
+  * text
+    * text
+  1. text
+     1. text
 
 ## HTML
 
