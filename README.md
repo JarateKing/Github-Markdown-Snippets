@@ -164,7 +164,6 @@ more text | more text | centered text | right-aligned text
 - [ ] text
 - [X] text
 
-
 ## HTML
 
 Github flavored markdown supports HTML tags and attributes, and is useful for advanced techniques within markdown. There's a whitelist of supported tags and attributes however, and the HTML that is usable is very restrictive.
@@ -204,6 +203,23 @@ start summary tabindex target
 title type usemap valign value
 vspace width itemprop
 ```
+
+### Entities
+
+A complete list of html entities can be found: https://www.freeformatter.com/html-entities.html
+
+Some common ones:
+
+Code | Appearance
+---- | ----------
+`&copy;` | &copy;
+`&reg;` | &reg;
+`&para;` | &para;
+`&micro;` | &micro;
+`&times;` | &times;
+`&divide;` | &divide;
+`&deg;` | &deg;
+`&plusmn;` | &plusmn;
 
 ## Text
 
