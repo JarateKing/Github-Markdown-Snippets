@@ -155,6 +155,15 @@ more text | more text | centered text | right-aligned text
    1. text
       1. text
          1. text
+		 
+```
+- [ ] text
+- [X] text
+```
+
+- [ ] text
+- [X] text
+
 
 ## HTML
 
