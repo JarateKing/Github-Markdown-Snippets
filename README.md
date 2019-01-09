@@ -187,6 +187,14 @@ more text | more text | centered text | right-aligned text
     * text
   1. text
      1. text
+	 
+### Images
+
+```
+![alt text](https://placehold.it/15/ff0000/000000?text=+)
+```
+
+![alt text](https://placehold.it/15/ff0000/000000?text=+)
 
 ## HTML
 
