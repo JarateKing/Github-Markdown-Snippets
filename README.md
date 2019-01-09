@@ -191,10 +191,12 @@ more text | more text | centered text | right-aligned text
 ### Images
 
 ```
-![alt text](https://placehold.it/15/ff0000/000000?text=+)
+![alt text](https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png)
+![alt text](dev/example.png)
 ```
 
-![alt text](https://placehold.it/15/ff0000/000000?text=+)
+![alt text](https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png)
+![alt text](dev/example.png)
 
 ## HTML
 
