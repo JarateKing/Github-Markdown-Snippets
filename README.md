@@ -84,6 +84,12 @@ __text__
 [text](https://www.google.com/ "tooltip")
 <a href="https://www.google.com/" title="tooltip">text</a>
 
+```
+[text](#links)
+```
+
+[text](#links)
+
 ### Code
 
 ```
