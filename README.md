@@ -263,6 +263,16 @@ Code | Appearance
 
 Html entities can be referenced by their unicode number. For example, `&copy;` is equivalent to `&#xa9;` (for hexadecimal) or `&#169;` (for decimal).
 
+### Emojis
+
+A list of valid emoji shortcodes can be found [here](Emoji-list.md)
+
+```
+:shark:
+```
+
+:shark:
+
 ## Text
 
 ### Subscripts
