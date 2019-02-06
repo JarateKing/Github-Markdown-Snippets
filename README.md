@@ -39,6 +39,7 @@ Markdown files on github can be styled using either github flavored markdown or 
    1. [Start-of-line Asterisk](#start-of-line-asterisk)
 3. [Composed](#composed)
    1. [Table of Contents](#table-of-contents)
+   1. [Captioned Image](#captioned-image)
 </details></td>
 </tr></tbody></table>
 
