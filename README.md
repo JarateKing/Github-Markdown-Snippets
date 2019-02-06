@@ -2,6 +2,46 @@
 
 Markdown files on github can be styled using either github flavored markdown or with certain html tags and attributes. These snippets should serve as a cheatsheet and a reference list of several different techniques.
 
+<table><tbody><tr>
+<td><details><summary>Table of Contents</summary>
+
+1. [Basic Formatting](#basic-formatting)
+   1. [Headers](#headers)
+   2. [Italics](#italics)
+   3. [Bold](#bold)
+   2. [Strikethrough](#strikethrough)
+   2. [Links](#links)
+   2. [Code](#code)
+   2. [Quotes](#quotes)
+   2. [Tables](#tables)
+   2. [Lists](#lists)
+   2. [Images](#images)
+2. [HTML](#html)
+   1. [Tags](#tags)
+   2. [Attributes](#attributes)
+   3. [Entities](#entities)
+   2. [Emojis](#emojis)
+3. [Text](#text)
+   1. [Subscripts](#subscripts)
+   2. [Superscripts](#superscripts)
+3. [Alignments](#alignments)
+   1. [Center Aligned](#center-aligned)
+   2. [Right Aligned](#right-aligned)
+   1. [Split Page](#split-page)
+   2. [Triple Alignment](#triple-alignment)
+3. [Images](#images)
+   1. [Specify Size](#specify-size)
+3. [Style](#style)
+   1. [Surround by Box](#surround-by-box)
+   1. [Divider Line](#divider-line)
+   1. [Hotkey Styling](#hotkey-styling)
+   1. [Dropdown / Collapsing / Spoilers](#dropdown--collapsing--spoilers)
+   1. [Start-of-line Asterisk](#start-of-line-asterisk)
+3. [Composed](#composed)
+   1. [Table of Contents](#table-of-contents)
+</details></td>
+</tr></tbody></table>
+
 ## Basic Formatting
 
 ### Headers
