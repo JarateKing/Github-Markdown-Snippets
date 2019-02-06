@@ -516,3 +516,29 @@ Normally, having an asterisk at the start of a line will become a list. If you w
 3. [Category 3](#alignments)
 </details></td>
 </tr></tbody></table>
+
+### Captioned Image
+
+```
+<table><tbody><tr>
+<td>
+	
+<p align="center">
+<img src="https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png">
+</p>
+
+<p align="center"><sub>Example Caption Here</sub></p>
+</td>
+</tr></tbody></table>
+```
+
+<table><tbody><tr>
+<td>
+	
+<p align="center">
+<img src="https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png">
+</p>
+
+<p align="center"><sub>Example Caption Here</sub></p>
+</td>
+</tr></tbody></table>
