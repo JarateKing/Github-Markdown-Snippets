@@ -139,15 +139,23 @@ non-code `inline-code`
 
 non-code `inline-code`
 
-    ```
-    multi-line
-    code
-    ```
+~~~
+```
+multi-line
+code
+```
+
+    alternatively,
+    indent with 4 spaces
+~~~
 
 ```
 multi-line
 code
 ```
+
+    alternatively,
+    indent with 4 spaces
 
 ### Quotes
 
