@@ -157,6 +157,24 @@ code
     alternatively,
     indent with 4 spaces
 
+~~~
+```c
+// syntax-highlighted
+int main()
+{
+	printf("multi-line code");
+}
+```
+~~~
+
+```c
+// syntax-highlighted
+int main()
+{
+	printf("multi-line code");
+}
+```
+
 ### Quotes
 
 ```
