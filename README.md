@@ -175,6 +175,8 @@ int main()
 }
 ```
 
+A list of languages with syntax highlighting can be found [here](https://github.com/github/linguist/blob/master/vendor/README.md). In the case of languages that include spaces in their name, like `Spline Font Database`, it should be rewritten to use dashes like `Spline-Font-Database`.
+
 ### Quotes
 
 ```
