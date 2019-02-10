@@ -543,6 +543,13 @@ Normally, having an asterisk at the start of a line will become a list. If you w
 
 &#8203;* Text
 
+The same concept applies to other characters as well, such as:
+```
+&#8203;# Text
+```
+
+&#8203;# Text
+
 ## Composed
 
 ### Table of Contents
