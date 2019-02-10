@@ -143,10 +143,12 @@ __text__
 <a href="https://www.google.com/" title="tooltip">text</a>
 
 ```
-[text](#links)
+[link to relative path](dev/example.png)
+[link to header id](#links)
 ```
 
-[text](#links)
+[link to relative path](dev/example.png)
+[link to header id](#links)
 
 ### Code
 
