@@ -65,6 +65,13 @@ This section goes over Github flavored markdown, without any advanced use of htm
 ##### 5
 ###### 6
 
+Any further amount of #'s do not work:
+```
+####### 7
+```
+
+####### 7
+
 ```
 1
 =
