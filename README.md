@@ -361,6 +361,14 @@ A list of valid emoji shortcodes can be found [here](Emoji-list.md)
 
 :shark:
 
+Some have multiple synonyms:
+
+```
+:hankey: :poop: :shit:
+```
+
+:hankey: :poop: :shit:
+
 Github provides multiple unofficial emoji shortcodes as well:
 
 ```
