@@ -45,7 +45,7 @@ Markdown files on github can be styled using either github flavored markdown or 
 
 ## Basic Formatting
 
-This section goes over Github flavored markdown, without any advanced use of html or the like. This is meant to quickly outline most of the [gfm spec](https://github.github.com/gfm/) with direct visual examples.
+This section goes over Github flavored markdown (sometimes abbreviated GFM), without any advanced use of html or the like. This is meant to quickly outline most of the [GFM spec](https://github.github.com/gfm/) with direct visual examples.
 
 ### Headers
 
