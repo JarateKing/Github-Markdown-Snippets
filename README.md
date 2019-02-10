@@ -344,6 +344,14 @@ A list of valid emoji shortcodes can be found [here](Emoji-list.md)
 
 :shark:
 
+Github provides multiple unofficial emoji shortcodes as well:
+
+```
+:godmode:
+```
+
+:godmode:
+
 ## Text
 
 ### Subscripts
