@@ -71,12 +71,20 @@ This section goes over Github flavored markdown, without any advanced use of htm
 
 2
 -
+
+multi <br>
+line
+-
 ```
 
 1
 =
 
 2
+-
+
+multi <br>
+line
 -
 
 ### Italics
