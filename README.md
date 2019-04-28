@@ -613,3 +613,15 @@ The same concept applies to other characters as well, such as:
 <p align="center"><sub>Example Caption Here</sub></p>
 </td>
 </tr></tbody></table>
+
+```
+<table><tbody><tr><td><p align="center">
+<img src="https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png"></p>
+<p align="center"><sub>Longer caption, to demonstrate how the panel resizes with more text</sub></p>
+</td></tr></tbody></table>
+```
+
+<table><tbody><tr><td><p align="center">
+<img src="https://github.com/JarateKing/Github-Markdown-Snippets/blob/master/dev/example.png"></p>
+<p align="center"><sub>Longer caption, to demonstrate how the panel resizes with more text</sub></p>
+</td></tr></tbody></table>
